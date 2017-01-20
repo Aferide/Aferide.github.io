@@ -4,7 +4,12 @@
     "repositoryName": "Aferide.github.io",
     "branch": "master"
   },
+  "site": {
+    "title": "Aferide",
+    "description": "Bir feza oldu o demde rû-nümâ"
+  },
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
