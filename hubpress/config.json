@@ -8,7 +8,9 @@
     "title": "Aferide",
     "description": "Bir feza oldu o demde rû-nümâ"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "aferide.iletisim@gmail.com"
+  },
   "theme": {
     "name": "casper"
   }
