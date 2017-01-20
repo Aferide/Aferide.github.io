@@ -4,5 +4,5 @@
 
 *Aferide*; bir ferdin yazılarını paylaşmak için can atıyor.  +
  +
-Eğer kıyıda köşede yazdığınız bir yazı varsa yayınlanması için buradan iletebilirsiniz. 
-mailto:aferide.iletisim@gmail.com?subject=Email%20YazıTeslimi 
+Eğer kıyıda köşede yazdığınız bir yazı varsa yayınlanması için aferide.iletisim@gmail.com adresinden iletebilirsiniz. 
+ 
