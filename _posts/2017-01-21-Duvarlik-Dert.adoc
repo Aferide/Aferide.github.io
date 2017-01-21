@@ -13,6 +13,3 @@ Gam yemekden özge bu derdin devâsın bilmedim"* +
 Ahmet Paşa
 
 Varsa hatam bunu düzeltmek de size vazifedir, düzeltemeyecekseniz doğrulmam için yapmanız gereken son  adım da hâyır duadır :) 
-[[img-sunset]]
-.A mountain sunset
-image::sunset.jpg[Sunset, 300, 200, link="http://www.flickr.com/photos/javh/5448336655"]
