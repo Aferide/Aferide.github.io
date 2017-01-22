@@ -6,7 +6,8 @@
   },
   "site": {
     "title": "Aferide",
-    "description": "Bir feza oldu o demde rû-nümâ"
+    "description": "Bir feza oldu o demde rû-nümâ",
+    "googleAnalytics": "UA-90730903-1"
   },
   "socialnetwork": {
     "email": "aferide.iletisim@gmail.com"
