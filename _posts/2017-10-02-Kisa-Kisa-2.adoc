@@ -60,6 +60,6 @@ _Geldikçe derdine beter et müptelâ beni"_
 -_Ne vakte kadar inilersin?_ +
 -Vaktin varlığından sıyrılmadan tamam olunur mu? +
 -_Neyi beklersin?_ +
--Pervane şem tutuşmadan ne yapsın? Beklediğim şeminden bir ışıktır.
+-Pervane, şem tutuşmadan ne yapsın? Beklediğim şeminden bir ışıktır.
 
 ✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
