@@ -35,7 +35,7 @@ _Eğer annesi olsaydı yanında, beraber uçacaklardı içimde açan sümbüller
 
 _Ey Hüma kuşu, bıraktığın bu yumurta senin! Gel ve sahip çık avcılar görmeden köpekler solumadan havayı."_ +
 
-Muhsin okuduktan sonra ardına yaslandı; içini çekti, zihnini yoklayıp Fuzuli'den şu beyiti söyleyip imrendi:
+Muhsin okuduktan sonra ardına yaslandı; içini çekti, zihnini yoklayıp Fuzuli'den şu beyiti söyleyip imrendi: +
 _"Gezme ey gönlüm kuşu gâfil fezâ-yı ışkda_ + 
 _Kim bu sahrânun güzer-gehlerde çok sayyâdı var"_
 
