@@ -235,6 +235,6 @@ Ne desin bu fakir, düğüm düğüm olmuşsa dili?
 
 ✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
 
-video::mZqs6VEwRk[youtube]
+video::-mZqs6VEwRk[youtube]
 
 ✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿✿
